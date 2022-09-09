@@ -4,7 +4,7 @@ joseph231999/joseph231999 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Joseph</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <h3 align="centre">Connect with me:</h3>
 <p align="left">
